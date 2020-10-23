@@ -6,7 +6,7 @@
       "X-Author": "anait_at6!",
       "Access-Control-Allow-Origin":"*",
       "Content-Type": "text/plain; charset=UTF-8"
-    };
+    },
      "/login/*":{
       "X-Author": "anait_at6",
       "Access-Control-Allow-Origin":"*",
