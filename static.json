@@ -3,12 +3,9 @@
   "headers":{    
     
      "/sample/*":{
-        "Access-Control-Allow-Headers": "Content-Type, Access-Control-Allow-Headers",
-        "Content-Type": "text/plain",
-       "encoding": "US-ASCII"
-    },
+        "Content-Type": "text/plain"
+      },
      "/login/*":{
-       "Access-Control-Allow-Headers": "Content-Type",
       "Access-Control-Allow-Origin":"*",
       "Content-Type": "text/plain; charset=UTF-8"
     }
