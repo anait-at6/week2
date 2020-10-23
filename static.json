@@ -2,7 +2,8 @@
 {
   "headers":{    
     "/*":{
-      "X-Author": "anait_at6"
+      "X-Author": "anait_at6",
+      "Access-Control-Allow-Origin ":"*"
     }
   }
 }
