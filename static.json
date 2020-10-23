@@ -3,7 +3,7 @@
   "headers":{    
     
      "/sample/*":{
-        "Access-Control-Allow-Headers": "Content-Type",
+        "Access-Control-Allow-Headers": "Content-Type, Access-Control-Allow-Headers",
         "Content-Type": "text/plain"
     },
      "/login/*":{
