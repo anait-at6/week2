@@ -1,7 +1,7 @@
 
 {
   "routes": {
-    "/sample/": "index.txt"
+    "/sample/": "/sample/index.txt"
   },
   
   "headers":{    
