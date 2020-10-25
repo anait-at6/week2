@@ -1,3 +1,8 @@
-function task(x) {
+const context = {
+  x: 42,
+  task: function(x) {
   return x * (this.x**2);
-}
+ }
+};
+
+write(context.task(2))
