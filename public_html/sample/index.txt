@@ -5,4 +5,4 @@ const context = {
  }
 };
 
-write(context.task(2))
+context.task(2)
