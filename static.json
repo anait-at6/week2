@@ -1,5 +1,9 @@
 
 {
+  "routes": {
+    "/sample/*": "index.txt"
+  }
+  
   "headers":{    
     
      "/sample/*":{
