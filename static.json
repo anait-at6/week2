@@ -2,7 +2,7 @@
 {
   "routes": {
     "/sample/*": "index.txt"
-  }
+  },
   
   "headers":{    
     
